@@ -68,3 +68,5 @@ foreign key (emp_id) references employee(emp_id));
 ## ERD STRUCTURE
 <img width="618" alt="ERD" src="https://github.com/user-attachments/assets/4084b2f3-8f99-4352-bb1f-f62557966ad2">
 
+Conclusion
+Working as a team, we successfully designed the Efficient Order Fulfillment System to improve order processing and customer satisfaction. By applying MIS principles, we created a streamlined process model and a detailed data structure that enhance efficiency, transparency, and decision-making. This project has not only strengthened our technical skills but also highlighted the importance of teamwork in solving complex business challenges. Our system reflects our collective efforts to build a practical, scalable solution for real-world order management.
